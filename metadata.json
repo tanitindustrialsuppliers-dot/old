@@ -1,0 +1,6 @@
+{
+  "name": "TANIT METAL INDUSTRY",
+  "description": "Enterprise Industrial Automation & Metal Equipment eCommerce Platform inspired by global industrial leaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
